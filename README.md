@@ -1,6 +1,7 @@
 # IIS_Rewrite
 IIS Rewrite Rules
 
+```xml
 <code>
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
@@ -36,3 +37,4 @@ Requires the IIS7 URL Rewrite Module, available from: http://www.iis.net/downloa
 </configuration>
 
 </code>
+```
